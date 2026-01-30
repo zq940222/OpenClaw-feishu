@@ -1,5 +1,5 @@
 {
-  "name": "@m1heng-clawd/feishu",
+  "name": "@zq940222/openclaw-feishu",
   "version": "0.1.5",
   "type": "module",
   "description": "Openclaw Feishu/Lark channel plugin",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m1heng/clawdbot-feishu.git"
+    "url": "git+https://github.com/zq940222/openclaw-feishu.git"
   },
   "keywords": [
     "openclaw",
@@ -39,7 +39,7 @@
       "order": 70
     },
     "install": {
-      "npmSpec": "@m1heng-clawd/feishu",
+      "npmSpec": "@zq940222/openclaw-feishu",
       "localPath": ".",
       "defaultChoice": "npm"
     }
